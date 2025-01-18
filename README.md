@@ -71,13 +71,15 @@ Below are some snippets from the JavaScript used to create and manage the intera
 
 ## Disclaimer
 
-This project is part of the Scripting Language in Web Cartography course during my studies in MSc in Cartography at Eötvös Loránd University.
+This project is part of the **Scripting Language in Web Cartography** course I took during my MSc in **Cartography** at **Eötvös Loránd University**.
+
 
 ## Acknowledgments
 
-- **Mátyás Gede** - [Visit GitHub](https://github.com/MatyasGede)
+- **[Mátyás Gede](https://github.com/samanbey)** - Professor and Class Instructor to the course materials and support in learning web cartography.
 - [Leaflet](https://leafletjs.com) - An open-source JavaScript library for mobile-friendly interactive maps.
 - [OpenStreetMap](https://www.openstreetmap.org) - A collaborative project to create a free editable map of the world.
+
 
 ## Contact
 
